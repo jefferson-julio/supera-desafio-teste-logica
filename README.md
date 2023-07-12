@@ -1,1 +1,1 @@
-# Teste de lógica para processo seletivo Supepra
+# Teste de lógica para processo seletivo Supera
